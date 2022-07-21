@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "weather-ago",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
